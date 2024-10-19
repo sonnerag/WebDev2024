@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Hoàng Đức Nghĩa
-* ID: 22BI13329
+* Name: Tran Binh Minh
+* ID: 22BI13308
 * Group ID: 11
 * Project Name: To-do List App
